@@ -1,0 +1,2 @@
+# Automatic-speed-control-in-self-driving-vehicles-using-Deep-learning
+This project improves self-driving vehicle safety and efficiency using deep learning. Neural networks control speed based on real-time sensor data, while LiDAR aids collision detection and path planning. Trained on diverse scenarios, the system adapts to traffic changes and prevents accidents, ensuring safer autonomous driving.
